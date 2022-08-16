@@ -1,1 +1,3 @@
 # scoopy
+
+Documentation of Scoopy
